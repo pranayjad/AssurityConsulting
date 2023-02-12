@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1676203149156,368,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 1",Main Test - Ultimate Thread Group 1-2,,false,,786,383,5,5,null,0,126,114
+1676203148957,580,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-3,,true,,3245,383,5,5,null,0,178,313
+1676203149357,320,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-1,,true,,3225,383,5,5,null,0,38,39
+1676203148557,878,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-5,,true,,3233,383,5,5,null,0,280,610
+1676203148757,775,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-4,,true,,3229,383,5,5,null,0,183,513
+1676203209194,304,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-5,,true,,3231,383,5,5,null,0,5,40
+1676203209298,292,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-2,,true,,3220,383,4,4,null,0,3,31
+1676203209306,291,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-4,,true,,3220,383,3,3,null,0,1,37
+1676203209371,312,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-3,,true,,3220,383,2,2,null,0,3,32
+1676203209534,222,API_01_Categories,200,"Number of samples in transaction : 1, number of failing samples : 0",Main Test - Ultimate Thread Group 1-1,,true,,3233,383,1,1,null,0,3,29
